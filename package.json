@@ -1,0 +1,25 @@
+{
+  "name": "backend-servakr",
+  "version": "1.0.0",
+  "description": "servidor servalApp\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[Dbackend\u001b[3~\u001b[ servalApp",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ing. Luis Galicia",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^3.2.0",
+    "body-parse": "^0.1.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "swagger-jsdoc": "^6.2.8",
+    "swagger-ui-express": "^4.6.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
